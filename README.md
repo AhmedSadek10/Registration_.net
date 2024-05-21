@@ -16,15 +16,15 @@
   "Email": "john.smith@example.com",
   "Addresses": [
     {
-      "Governate": "Governate 1",
-      "City": "City 1",
+      "Governate": "Giza",
+      "City": "6 October",
       "Street": "Street 1",
       "BuildingNumber": "123",
       "FlatNumber": 1
     },
     {
-      "Governate": "Governate 2",
-      "City": "City 2",
+      "Governate": "Cairo",
+      "City": "Cairo",
       "Street": "Street 2",
       "BuildingNumber": "456",
       "FlatNumber": 2
